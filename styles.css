@@ -104,7 +104,7 @@ body {
     /* 21px */
 }
 
-.date {
+.date p{
     color: var(--color-gray-950, #111);
     font-size: var(--font-size-text-preset-3, 14px);
     font-style: normal;
